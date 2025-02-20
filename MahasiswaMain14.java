@@ -16,5 +16,8 @@ public class MahasiswaMain14 {
         Mahasiswa14 mhs2 = new Mahasiswa14("Annisa Nabila", "2141720160", 3.25, "TI 2L");
         mhs2.updateIpk(3.30);
         mhs2.tampilkanInformasi();
+
+        Mahasiswa14 mhsWildan = new Mahasiswa14("M Wildan Wibisono", "244107060118", 3.5, "SIB 1C");
+        mhsWildan.tampilkanInformasi();
     }
 }
